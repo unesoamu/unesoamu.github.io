@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://unesoamu.github.io/Fjt/sitemap_index.txt.gz
+Sitemap: https://unesoamu.github.io/bvA/sitemap_index.txt.gz
+Sitemap: https://unesoamu.github.io/gYv/sitemap_index.txt.gz
+Sitemap: https://unesoamu.github.io/rkK/sitemap_index.txt.gz
+Sitemap: https://unesoamu.github.io/weA/sitemap_index.txt.gz
